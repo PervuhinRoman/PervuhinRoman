@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 
 ### Спасибо, если прочитал лирическое отступление, а теперь немного по делу 🧐
 
-* 🚀 Сейчас я работаю над - [Трекером привычек](https://github.com/RomanPervuhin/CSharpHabitsTracker) (HabitsTracker), [Клондайком](https://github.com/RomanPervuhin/KlondikeProgramming)
-* 📚 Сейчас я изучаю такие технологии, как - Java, C#, C++, Python 
-* 🤝 Сейчас я сотрудничаю с - [мой дружище](https://github.com/DpoofikD)
+* 🚀 Сейчас я работаю над: [Трекером привычек](https://github.com/PervuhinRoman/CSharpHabitsTracker) (HabitsTracker), [Клондайком алгоритмов](https://github.com/PervuhinRoman/KlondikeProgramming) (KlondikeProgramming)
+* 🏔 Я закончил:
+  * [Конвертер систем счисления](https://github.com/PervuhinRoman/CSharpNumeralConverter) (NumeralConverter)
+* 📚 Сейчас я изучаю: Java, C#, C++, Python, .NET
+* 🤝 Сейчас я сотрудничаю с: [мой дружище](https://github.com/DpoofikD)
 * 📫 Связаться со мной:
   * VK: [Первухин Роман](https://vk.com/id469773080)
   * Telegram: @Klim5198
@@ -37,14 +39,16 @@ Here are some ideas to get you started:
   * Instagram: [pervuhin_roman](https://www.instagram.com/pervuhin_roman)
   * Email: rg.pervuhin5198@gmail.com
 * ⚡ Интересно/забавно: 
-  * Люблю кошек и котов
+  * Люблю кошек
   * Слушаю [Высоцкого](https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D0%BE%D1%86%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87)
-  * Обожаю минимализм и порядок
-  * Люблю читать
-* 🏔 Я закончил:
-  * [Конвертер систем счисления](https://github.com/RomanPervuhin/CSharpNumeralConverter) (NumeralConverter)
+  * Прочитал В.И.Ленин *"Избранные произведения в шести томах" Том 1* 
+  * Стараюсь быть *"Comme il faut"* 🎩
+  * Воспитываю в себе минимализм
+  * Люблю читать 📙
+  * Если плохая погода, то 🌧🌪⛈
+  * Если искусство, то [конструктивизм](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE))
 
-### Специально добавил немного пустой статистики, которую планирую наполнить, пусть это будет мне пинок под *зад*
+### Специально добавил немного пустой статистики, которую планирую наполнить, пусть это будет мне пинок
 
 ![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanPervuhin&hide=contribs&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanPervuhin&layout=compact)](https://github.com/RomanPervuhin/github-readme-stats) 
