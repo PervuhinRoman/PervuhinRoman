@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ### Специально добавил немного пустой статистики, которую планирую наполнить, пусть это будет мне пинок
 
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanPervuhin&hide=contribs&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanPervuhin&layout=compact)](https://github.com/RomanPervuhin/github-readme-stats) 
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=PervuhinRoman&hide=contribs&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PervuhinRoman&layout=compact)](https://github.com/RomanPervuhin/github-readme-stats) 
  
 ---
 ### Спасибо за внимание! ###
