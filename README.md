@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 * 🤝 Сейчас я сотрудничаю с: [мой дружище](https://github.com/DpoofikD)
 * 📫 Связаться со мной:
   * VK: [Первухин Роман](https://vk.com/id469773080)
-  * Telegram: @Klim5198
+  * Telegram: [Klim5198](https://t.me/Klim5198)
   * Twitter: [@PervuhinRoman](https://twitter.com/PervuhinRoman)
   * Instagram: [pervuhin_roman](https://www.instagram.com/pervuhin_roman)
   * Email: rg.pervuhin5198@gmail.com
