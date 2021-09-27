@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Спасибо, если прочитал лирическое отступление, а теперь немного по делу 🧐
 
 * 🚀 Сейчас я работаю над: 
-  * [Трекером привычек](https://github.com/PervuhinRoman/CSharpHabitsTracker) (HabitsTracker)
+  * [Трекером привычек](https://github.com/PervuhinRoman/CSharpHabitsTracker) (HabitsTracker) 
   * [Клондайком алгоритмов](https://github.com/PervuhinRoman/KlondikeProgramming) (KlondikeProgramming)
 * 🏔 Я закончил:
   * [Конвертер систем счисления](https://github.com/PervuhinRoman/CSharpNumeralConverter) (NumeralConverter)
