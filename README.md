@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Человек | Минималист | Developer | High school student 
+### Человек | Минималист | Developer | High school student  
 
 <!--
 **RomanPervuhin/RomanPervuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
