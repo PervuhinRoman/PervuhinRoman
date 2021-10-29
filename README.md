@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 * 🚀 Сейчас я работаю над: 
   * [Трекером привычек](https://github.com/PervuhinRoman/CSharpHabitsTracker) (HabitsTracker) 
   * [Клондайком алгоритмов](https://github.com/PervuhinRoman/KlondikeProgramming) (KlondikeProgramming)
-  * [Конвертером систем счисления на Java](https://github.com/PervuhinRoman/JavaNumeralConverter)
+  * [Конвертером систем счисления на Java](https://github.com/PervuhinRoman/JavaNumeralConverter) (JavaNumeralConverter)
 * 🏔 Я закончил:
   * ...
 * 📚 Сейчас я изучаю: Java, C#, C++, Python, .NET
