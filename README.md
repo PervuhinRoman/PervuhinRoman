@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   * Если плохая погода, то обязательно с дождём 🌧🌪⛈
   * Если искусство, то [конструктивизм](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE))
 
-### Специально добавил немного пустой статистики, которую планирую наполнить, пусть это будет мне пинок
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PervuhinRoman&layout=compact)](https://github.com/RomanPervuhin/github-readme-stats)  
  
