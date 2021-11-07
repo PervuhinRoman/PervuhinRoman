@@ -12,6 +12,5 @@
 <a href="https://t.me/Klim5198" target="_blank"><img align="left" alt="PervuhinRoman | Telegram" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" /><a/>
 <a href="https://vk.com/id469773080" target="_blank"><img align="left" alt="PervuhinRoman | Vk" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" /><a/>
 <a href="https://www.instagram.com/pervuhinroman/?hl=en" target="_blank"><img align="left" alt="PervuhinRoman | Insta" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
-<a href="rg.pervuhin5198@gmail.com" target="_blank"><img align="left" alt="PervuhinRoman | Gmail" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" /><a/>
 <br/>
 ### Languages and Tools:
