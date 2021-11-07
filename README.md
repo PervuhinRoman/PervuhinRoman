@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ---
 ### Спасибо за внимание! ###
 
-[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" />][twitter]
-[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" />][telegram]
-[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" />][vk]
-[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" />][instagram]
-[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" />][gmail]
+<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" />
+<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" />
+<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" />
+<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" />
+<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" />
