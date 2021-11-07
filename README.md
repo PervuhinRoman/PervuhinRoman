@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman! 👋
 
-## I'm man | minimalist | developer | high school student 
+## man | minimalist | developer | high school student 
 - 🔭 I’m currently working on [JavaNumeralConverter](https://github.com/PervuhinRoman/JavaNumeralConverter)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with [my buddy](https://github.com/DpoofikD)
