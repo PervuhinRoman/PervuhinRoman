@@ -41,3 +41,5 @@ Here are some ideas to get you started:
  
 ---
 ### Спасибо за внимание! ###
+
+[<img align="left" alt="PervuhinRoman | Twitter" width="22px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" />][twitter]
