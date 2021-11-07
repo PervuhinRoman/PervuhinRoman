@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ---
 ### Спасибо за внимание! ###
 
-<a href="https://twitter.com/PervuhinRoman"><img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" /><a/>
-<a href="https://t.me/Klim5198"><img align="left" alt="PervuhinRoman | Telegram" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" /><a/>
-<a href="https://vk.com/id469773080"><img align="left" alt="PervuhinRoman | Vk" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" /><a/>
-<a href="https://www.instagram.com/pervuhin_roman"><img align="left" alt="PervuhinRoman | Insta" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
-<a href="rg.pervuhin5198@gmail.com"><img align="left" alt="PervuhinRoman | Gmail" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" /><a/>
+<a href="https://twitter.com/PervuhinRoman" target="_blank"><img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" /><a/>
+<a href="https://t.me/Klim5198" target="_blank"><img align="left" alt="PervuhinRoman | Telegram" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" /><a/>
+<a href="https://vk.com/id469773080" target="_blank"><img align="left" alt="PervuhinRoman | Vk" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" /><a/>
+<a href="https://www.instagram.com/pervuhinroman/?hl=en" target="_blank"><img align="left" alt="PervuhinRoman | Insta" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
+<a href="rg.pervuhin5198@gmail.com" target="_blank"><img align="left" alt="PervuhinRoman | Gmail" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" /><a/>
