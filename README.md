@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ---
 ### Спасибо за внимание! ###
 
-<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" />
+[<a href="https://twitter.com/PervuhinRoman"><img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" /><a/>][https://twitter.com/PervuhinRoman]
+[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" />][https://t.me/Klim5198]
+[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" />][https://vk.com/id469773080]
+[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" />][https://www.instagram.com/pervuhin_roman]
+[<img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" />][rg.pervuhin5198@gmail.com]
