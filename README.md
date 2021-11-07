@@ -1,49 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Roman! 👋
 
-### Человек | Минималист | Developer | High school student  
+## I'm man | minimalist | developer | high school student 
+- 🔭 I’m currently working on [JavaNumeralConverter](https://github.com/PervuhinRoman/JavaNumeralConverter)
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with [my buddy](https://github.com/DpoofikD)
+- ⚡ Fun fact: I love cats 😸🐈
 
-<!--
-**RomanPervuhin/RomanPervuhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-* 🚀 Сейчас я работаю над: 
-  * [Трекером привычек](https://github.com/PervuhinRoman/CSharpHabitsTracker) (HabitsTracker) 
-  * [Клондайком алгоритмов](https://github.com/PervuhinRoman/KlondikeProgramming) (KlondikeProgramming)
-  * [Конвертером систем счисления на Java](https://github.com/PervuhinRoman/JavaNumeralConverter) (JavaNumeralConverter)
-* 🤝 Сейчас я сотрудничаю с: [мой дружище](https://github.com/DpoofikD)
-* 📫 Связаться со мной:
-  * VK: [Первухин Роман](https://vk.com/id469773080)
-  * Telegram: [Klim5198](https://t.me/Klim5198)
-  * Twitter: [@PervuhinRoman](https://twitter.com/PervuhinRoman)
-  * Instagram: [pervuhin_roman](https://www.instagram.com/pervuhin_roman)
-  * Email: rg.pervuhin5198@gmail.com
-* ⚡ Интересно/забавно: 
-  * Люблю кошек
-  * Слушаю [Высоцкого](https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D0%BE%D1%86%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87)
-  * Стараюсь быть *"Comme il faut"* 🎩
-  * Люблю читать 📙
-  * Если плохая погода, то обязательно с дождём 🌧🌪⛈
-  * Если искусство, то [конструктивизм](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE))
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PervuhinRoman&layout=compact)](https://github.com/RomanPervuhin/github-readme-stats)  
- 
----
-### Спасибо за внимание! ###
-
-<a href="https://twitter.com/PervuhinRoman" target="_blank"><img align="left" alt="PervuhinRoman | Twitter" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" /><a/>
-<a href="https://t.me/Klim5198" target="_blank"><img align="left" alt="PervuhinRoman | Telegram" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" /><a/>
-<a href="https://vk.com/id469773080" target="_blank"><img align="left" alt="PervuhinRoman | Vk" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" /><a/>
-<a href="https://www.instagram.com/pervuhinroman/?hl=en" target="_blank"><img align="left" alt="PervuhinRoman | Insta" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
-<a href="rg.pervuhin5198@gmail.com" target="_blank"><img align="left" alt="PervuhinRoman | Gmail" width="42px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" /><a/>
+<a href="https://twitter.com/PervuhinRoman" target="_blank"><img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" /><a/>
+<a href="https://t.me/Klim5198" target="_blank"><img align="left" alt="PervuhinRoman | Telegram" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" /><a/>
+<a href="https://vk.com/id469773080" target="_blank"><img align="left" alt="PervuhinRoman | Vk" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" /><a/>
+<a href="https://www.instagram.com/pervuhinroman/?hl=en" target="_blank"><img align="left" alt="PervuhinRoman | Insta" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
+<a href="rg.pervuhin5198@gmail.com" target="_blank"><img align="left" alt="PervuhinRoman | Gmail" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/gmail.png" /><a/>
+<br/>
+### Languages and Tools:
