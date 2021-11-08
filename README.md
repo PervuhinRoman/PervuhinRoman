@@ -11,7 +11,7 @@
 <a href="https://twitter.com/PervuhinRoman" target="_blank"><img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" /><a/>
 <a href="https://t.me/Klim5198" target="_blank"><img align="left" alt="PervuhinRoman | Telegram" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" /><a/>
 <a href="https://vk.com/id469773080" target="_blank"><img align="left" alt="PervuhinRoman | Vk" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" /><a/>
-<a href="https://www.instagram.com/pervuhinroman/?hl=en" target="_blank"><img align="left" alt="PervuhinRoman | Insta" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
+<a href="https://www.instagram.com/pervuhin_roman/?hl=en" target="_blank"><img align="left" alt="PervuhinRoman | Insta" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
   
 <br/>
 <br/>
