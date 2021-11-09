@@ -18,16 +18,16 @@
   
 ### Languages and Tools:
 
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/c%2B%2B.png" /> 
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/figma.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/csharp.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/androidStudio.png" /> 
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/java.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/intellijIdea.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/visualStudioCode.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/javascript.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/python.png" />
-<img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/git.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/c%2B%2B.png" /> 
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/csharp.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/figma.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/androidStudio.png" /> 
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/java.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/intellijIdea.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/visualStudioCode.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/javascript.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/python.png" />
+<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/git.png" />
   
 <br/>
 <br/>
