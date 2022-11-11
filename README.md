@@ -3,7 +3,6 @@
 ## Man | minimalist | developer | high school student 
 - 🔭 I’m currently working on [JavaPatterns](https://github.com/PervuhinRoman/JavaPatterns)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with [my buddy](https://github.com/DpoofikD)
 - ⚡ Fun fact: I love cats 😸🐈
 
 ### Connect with me:
