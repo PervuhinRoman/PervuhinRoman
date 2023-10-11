@@ -1,7 +1,4 @@
-### 👋 Hi there, I'm Roman! 
-  
-### 📊 My Github Stats:
-  <br/>
+### 📊 Github stats:
   
   <p align="left">
     <a href="https://github.com/PervuhinRoman/github-readme-stats"><img alt="Pervuhin Roman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PervuhinRoman&langs_count=8&count_private=true&layout=compact" /></a>
