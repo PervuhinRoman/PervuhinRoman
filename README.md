@@ -1,35 +1,4 @@
-### Hi there, I'm Roman! 👋
-
-## Man | minimalist | developer | high school student 
-- 🔭 I’m currently working on [JavaPatterns](https://github.com/PervuhinRoman/JavaPatterns)
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love cats 😸🐈
-
-### Connect with me:
-
-<a href="https://twitter.com/PervuhinRoman" target="_blank"><img align="left" alt="PervuhinRoman | Twitter" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/twitter.png" /><a/>
-<a href="https://t.me/Klim5198" target="_blank"><img align="left" alt="PervuhinRoman | Telegram" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/telegram.png" /><a/>
-<a href="https://vk.com/pervuhinroman" target="_blank"><img align="left" alt="PervuhinRoman | Vk" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/vk.png" /><a/>
-<a href="https://www.instagram.com/pervuhin_roman/?hl=en" target="_blank"><img align="left" alt="PervuhinRoman | Insta" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/instagram.png" /><a/>
-  
-<br/>
-<br/>
-  
-### Languages and Tools:
-
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/c%2B%2B.png" /> 
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/csharp.png" />
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/figma.png" />
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/androidStudio.png" /> 
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/java.png" />
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/intellijIdea.png" />
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/visualStudioCode.png" />
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/javascript.png" />
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/python.png" />
-<img align="left" alt="PervuhinRoman | skills" width="30px" src="https://github.com/PervuhinRoman/Images/blob/master/git.png" />
-  
-<br/>
-<br/>
+### 👋 Hi there, I'm Roman! 
   
 ### 📊 My Github Stats:
   <br/>
